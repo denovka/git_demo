@@ -33,15 +33,20 @@ git checkout -b feature/page-42
 git status
 git add .
 git status
-git commit -m "Page 42: {your changes description}"
+git commit -m "Page 42: your changes description"
 ```
 8. Push your branch into repository:
 ```
 git push -u origin feature/page-42
 ```
-9. Create MR (Merge Request)
-10. Resolve merge conflicts if needed
-11. Wait for a review
+9. Take a look at your `AliceInWonderland.md` file:
+    - all fragments from the `main` branch should not be changed;
+    - newly added fragment has the same style.
+10. Create MR (Merge Request)
+11. Rebase your branch if `main` ahead:
+![Rebase Your Branch](rebaseYourBranch.png)
+12. Resolve merge conflicts if needed
+13. Wait for a review
 
 ## Additional Sources
 
