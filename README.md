@@ -13,7 +13,11 @@ All needed illustrations could be found at: [https://www.gutenberg.org/files/197
 ![requestAccess](requestAccess.png)
 4. Clone repository to your local machine
 ```
-git clone https://{YOUR_TOKEN_NAME:TOKEN}@gitlab.com/iryna.v.afanasieva/alice.git
+git clone https://YOUR_TOKEN_NAME:YOUR_TOKEN_VALUE@gitlab.com/iryna.v.afanasieva/alice.git
+```
+If you clone without your Personal Access Token
+```
+git remote set-url origin https://YOUR_TOKEN_NAME:YOUR_TOKEN_VALUE@gitlab.com/iryna.v.afanasieva/alice.git
 ```
 5. Create new branch, follow `feature/page-No` pattern, lets assume that your page number is 42:
 ```
