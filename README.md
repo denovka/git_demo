@@ -24,8 +24,8 @@ git remote set-url origin https://YOUR_TOKEN_NAME:YOUR_TOKEN_VALUE@gitlab.com/ir
 git checkout -b feature/page-42
 ```
 6. Add necessary page content into [AliceInWonderland.md](AliceInWonderland.md):
-    - add solid line;
-    - add page number;
+    - add solid line (for variants with: an entire page, or top part of a page);
+    - add page number (for variants with: an entire page, or top part of a page);
     - add page content;
     - **Attention!** Redundant empty lines are not accepted
 7. Commit changes: commit message should begin with `Page No:`
