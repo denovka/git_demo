@@ -52,7 +52,7 @@ git push -u origin feature/page-42
 
 - [Git tips](http://sixrevisions.com/web-development/git-tips/) — consolidate your knowledge of Git
 - [Learn git branching](http://learngitbranching.js.org) — improve your understanding of branching
-- [Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/)
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [license]: https://gitlab.com/gitlab-org/gitlab-foss/-/raw/master/LICENSE
