@@ -93,6 +93,32 @@ nothing to do: once or twice she had peeped into
 the book her sister was reading, but it had no  
 pictures or conversations in it, “ and what is
 
+---
+80
+
+the trees behind him.  
+“-or next day, maybe,” the Footman con-  
+tinued in the same tone, exactly as if nothing  
+had happened.  
+“How am I to get in?” asked Alice again in  
+a louder tone.  
+“Are you to get in at all ?” said the Foot-  
+man. “That’s the first question, you know.”  
+It was, no doubt: only Alice did not like to  
+be told so. “It’s really dreadful,” she muttered  
+to herself, “ the way all the creatures argue.  
+It’s enough to drive one crazy !”  
+The Footman seemed to think this a good  
+opportunity for repeating his remark, with  
+variations. “ I shall sit here,” he said, “on and  
+off, for days and days.”  
+“But what am I to do?” said Alice.  
+“Anything you like,” said the Footman, and  
+began whistling.  
+“Oh, there’s no use in talking to him,” said  
+Alice desperately : “he’s perfectly idiotic !” And  
+she opened the door and went in.  
+
 [1]: https://pbs.twimg.com/media/EAts-3NXYAQ-qrS.png
 [2]: https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
 [3]: https://www.gutenberg.org/files/19778/19778-h/images/frontipiece.jpg
