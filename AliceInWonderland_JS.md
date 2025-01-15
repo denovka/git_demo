@@ -119,6 +119,32 @@ her lessons in the schoolroom, and though this
 was not a very good opportunity for showing off  
 her knowledge, as there was no one to listen to  
 
+---
+134
+
+“It’s a mineral, I think,” said Alice.  
+“ Of course it is,” said the Duchess, who  
+seemed ready to agree to everything that Alice  
+said; “there ’s a large mustard-mine near here.  
+And the moral of that is—‘The more there is  
+of mine, the less there is of yours.’ ”  
+“ Oh, I know !” exclaimed Alice, who had  
+not attended to this last remark, “it’s a veget-  
+able. It doesn ’t look like one, but it is.”  
+“I quite agree with you,” said the Duchess,  
+“and the moral of that is—‘Be what you would  
+seem to be’—or, if you ’d like it put more  
+simply—‘ Never imagine yourself not to be  
+otherwise than what it might appear to others  
+that what you were or might have been was  
+not otherwise than what you had been would  
+have appeared to them to be otherwise.’ ”  
+“ I think I should understand that better,”  
+Alice said very politely, “ if I had it written  
+down: but I can ’t quite follow it as you say it.”  
+“That ’s nothing to what I could say if I  
+chose,” the Duchess replied in a pleased tone.  
+
 [1]: https://pbs.twimg.com/media/EAts-3NXYAQ-qrS.png
 [2]: https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
 [3]: https://www.gutenberg.org/files/19778/19778-h/images/frontipiece.jpg
