@@ -93,6 +93,32 @@ nothing to do: once or twice she had peeped into
 the book her sister was reading, but it had no  
 pictures or conversations in it, “ and what is
 
+---
+4
+
+a jar from one of the shelves as she passed ; it  
+was labelled “ ORANGE MARMALADE,” but  
+to her great disappointment it was empty: she did  
+not like to drop the jar for fear of killing some-  
+body underneath, so managed to put it into  
+one of the cupboards as she fell past it.  
+“ Well !” thought Alice to herself, “ after  
+such a fall as this, I shall think nothing of  
+tumbling down stairs ! How brave they ’ll all  
+think me at home ! Why, I wouldn’t say any-  
+thing about it, even if I fell off the top of  
+the house !” (Which was very likely true.)  
+Down, down, down. Would the fall never  
+come to an end ? “ I wonder how many miles  
+I ’ve fallen by this time ?” she said aloud. “ I  
+must be getting somewhere near the centre of  
+the earth. Let me see : that would be four  
+thousand miles down, I think—” (for, you see,  
+Alice had learnt several things of this sort in  
+her lessons in the schoolroom, and though this  
+was not a very good opportunity for showing off  
+her knowledge, as there was no one to listen to  
+
 [1]: https://pbs.twimg.com/media/EAts-3NXYAQ-qrS.png
 [2]: https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
 [3]: https://www.gutenberg.org/files/19778/19778-h/images/frontipiece.jpg
