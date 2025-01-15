@@ -73,7 +73,7 @@ git push -u origin feature/page-42
 [1]: https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
 [2]: https://www.gutenberg.org/files/19778/19778-h/images/
 [3]: https://gitlab.com/users/sign_up
-[4]: https://gitlab.com/-/profile/personal_access_tokens
+[4]: https://gitlab.com/-/user_settings/personal_access_tokens
 [5]: requestAccess.png
 [6]: AliceInWonderland.md
 [7]: rebaseYourBranch.png
