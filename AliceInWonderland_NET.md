@@ -93,6 +93,32 @@ nothing to do: once or twice she had peeped into
 the book her sister was reading, but it had no  
 pictures or conversations in it, “ and what is
 
+---
+87
+
+or two : wouldn’t it be murder to leave it  
+behind?” She said the last words out loud, and  
+the little thing grunted in reply (it had left off  
+sneezing by this time). “ Don’t grunt,” said  
+Alice : “ that ’s not at all a proper way of  
+expressing yourself.”  
+The baby grunted again, and Alice looked  
+very anxiously into its face to see what was the  
+matter with it. There could be no doubt that  
+it had a very turn-up nose, much more like a  
+snout than a real nose ; also its eyes were  
+getting extremely small, for a baby : altogether  
+Alice did not like the look of the thing at all,  
+“ —but perhaps it was only sobbing,” she  
+thought, and looked into its eyes again, to see  
+if there were any tears.  
+No, there were no tears. “ If you’re going to  
+turn into a pig, my dear,” said Alice, seriously,  
+“I’ll have nothing more to do with you. Mind  
+now !” The poor little thing sobbed again, (or  
+grunted, it was impossible to say which,) and  
+they went on for some while in silence.
+
 [1]: https://pbs.twimg.com/media/EAts-3NXYAQ-qrS.png
 [2]: https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
 [3]: https://www.gutenberg.org/files/19778/19778-h/images/frontipiece.jpg
