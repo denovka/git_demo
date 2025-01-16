@@ -94,6 +94,32 @@ the book her sister was reading, but it had no
 pictures or conversations in it, “ and what is
 
 ---
+24
+
+“ I shall be punished for it now, I suppose, by  
+being drowned in my own tears ! That will be  
+a queer thing, to be sure ! However, everything  
+is queer to-day.”  
+Just then she heard something splashing  
+about in the pool a little way off, and she swam  
+nearer to make out what it was : at first she  
+thought it must be a walrus or hippopotamus,  
+but then she remembered how small she was  
+now, and she soon made out that it was only  
+a mouse, that had slipped in like herself.  
+“ Would it be of any use, now,” thought  
+Alice, “ to speak to this mouse ? Everything is  
+so out-of-the-way down here, that I should think  
+very likely it can talk : at any rate there ’s  
+no harm in trying.” So she began : “ O Mouse,  
+do you know the way out of this pool ? I am  
+very tired of swimming about here, O Mouse !”  
+(Alice thought this must be the right way of  
+speaking to a mouse : she had never done such  
+a thing before, but she remembered having seen  
+in her brother’s Latin Grammar, “ A mouse—
+
+---
 37
 
 so that her idea of the tale was something like
