@@ -172,6 +172,32 @@ Alice desperately : “he’s perfectly idiotic !” And
 she opened the door and went in.  
 
 ---
+123
+
+become of me ? They ’re dreadfully fond of  
+beheading people here : the great wonder is,  
+that there’s any one left alive!”  
+She was looking about for some way of  
+escape, and wondering whether she could get  
+away without being seen, when she noticed a  
+curious appearance in the air : it puzzled her  
+very much at first, but after watching it a  
+minute or two she made it out to be a grin,  
+and she said to herself, “It’s the Cheshire Cat:  
+now I shall have somebody to talk to.”  
+“How are you getting on?” said the Cat,  
+as soon as there was mouth enough for it to  
+speak with.  
+Alice waited till the eyes appeared, and then  
+nodded. “It ’s no use speaking to it,” she  
+thought, “till its ears have come, or at least  
+one of them.” In another minute the whole  
+head appeared, and then Alice put down her  
+flamingo, and began an account of the game,  
+feeling very glad she had some one to listen to  
+her. The Cat seemed to think that there was  
+
+---
 172
 
 “ or I ’ll have you executed.”  
