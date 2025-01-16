@@ -146,6 +146,32 @@ so that her idea of the tale was something like
 ```
 
 ---
+71
+
+trees under which she had been wandering,  
+when a sharp hiss made her draw back in a  
+hurry: a large pigeon had flown into her face,  
+and was beating her violently with its wings.  
+“Serpent!” screamed the Pigeon.  
+“I’m not a serpent!” said Alice indignantly.  
+“Let me alone !”  
+“Serpent, I say again !” repeated the Pigeon,  
+but in a more subdued tone, and added with  
+a kind of sob, “ I’ve tried every way, and  
+nothing seems to suit them !”  
+“I haven ’t the least idea what you’re talk-  
+ing about,” said Alice.  
+“I’ve tried the roots of trees, and I’ve tried  
+banks, and I’ve tried hedges,” the Pigeon went  
+on, without attending to her ; “ but those  
+serpents! There’s no pleasing them !”  
+Alice was more and more puzzled, but she  
+thought there was no use in saying anything  
+more till the Pigeon had finished.  
+“ As if it wasn’t trouble enough hatching  
+the eggs,” said the Pigeon; “but I must be on  
+
+---
 80
 
 the trees behind him.  
