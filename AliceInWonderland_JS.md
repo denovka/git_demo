@@ -120,6 +120,48 @@ was not a very good opportunity for showing off
 her knowledge, as there was no one to listen to  
 
 ---
+110
+
+ “Really, now you ask me,” said Alice, very  
+ much confused, “I don’t think——”  
+ “Then you shouldn’t talk,” said the Hatter.  
+
+ ![A MAD TEA-PARTY][5]
+
+  This piece of rudeness was more than Alice  
+ could bear: she got up in great disgust, and  
+ walked off: the Dormouse fell asleep instantly,  
+ and neither of the others took the least notice  
+ of her going, though she looked back once or  
+ twice, half hoping that they would call after  
+ her: the last time she saw them, they were  
+ trying to put the Dormouse into the teapot.  
+
+---
+111
+
+ At any rate I’ll never go there again!” said  
+ Alice as she picked her way through the wood.  
+ “It’s the stupidest tea-party I ever was at in  
+ all my life!”  
+ Just as she said this, she noticed that one  
+ of the trees had a door leading right into it.  
+ “That’s very curious!” she thought. “But  
+ everything’s curious to-day. I think I may as  
+ well go in at once.” And in she went.  
+ Once more she found herself in the long hall,  
+ and close to the little glass table. “Now, I’ll  
+ manage better this time,” she said to herself,  
+ and began by taking the little golden key, and  
+ unlocking the door that led into the garden.  
+ Then she went to work nibbling at the mushroom  
+ (she had kept a piece of it in her pocket) till  
+ she was about a foot high: then she walked  
+ down the little passage: and then—she found  
+ herself at last in the beautiful garden, among  
+ the bright flowerbeds and the cool fountains.
+
+---
 134
 
 “It’s a mineral, I think,” said Alice.  
@@ -149,3 +191,4 @@ chose,” the Duchess replied in a pleased tone.
 [2]: https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
 [3]: https://www.gutenberg.org/files/19778/19778-h/images/frontipiece.jpg
 [4]: https://www.gutenberg.org/files/19778/19778-h/images/p001.png
+[5]: https://www.gutenberg.org/files/19778/19778-h/images/p102.png
