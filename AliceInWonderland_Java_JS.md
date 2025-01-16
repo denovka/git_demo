@@ -119,6 +119,32 @@ began whistling.
 Alice desperately : “he’s perfectly idiotic !” And  
 she opened the door and went in.  
 
+---
+172
+
+“ or I ’ll have you executed.”  
+The miserable Hatter dropped his teacup and  
+bread-and-butter, and went down on one knee.  
+“ I ’m a poor man, your Majesty,” he began.  
+“ You ’re a very poor speaker,” said the  
+King.  
+Here one of the guinea-pigs cheered, and was  
+immediately suppressed by the officers of the  
+court. (As that is rather a hard word, I will  
+just explain to you how it was done. They had  
+a large canvass bag, which tied up at the mouth  
+with strings : into this they slipped the guinea-  
+pig, head first, and then sat upon it.)  
+“ I ’m glad I ’ve seen that done,” thought  
+Alice. “ I ’ve so often read in the newspapers,  
+at the end of trials, ‘ There was some attempt  
+at applause, which was immediately suppressed  
+by the officers of the court,’ and I never under-  
+stood what it meant till now.”  
+“ If that ’s all you know about it, you may  
+stand down,” continued the King.  
+“ I can’t go no lower,” said the Hatter : “ I ’m  
+
 [1]: https://pbs.twimg.com/media/EAts-3NXYAQ-qrS.png
 [2]: https://www.adobe.com/be_en/active-use/pdf/Alice_in_Wonderland.pdf
 [3]: https://www.gutenberg.org/files/19778/19778-h/images/frontipiece.jpg
