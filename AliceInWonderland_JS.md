@@ -28,7 +28,7 @@ To beg a tale of breath too weak
   To stir the tiniest feather!
 Yet what can one poor voice avail
   Against three tongues together?
-
+text by denys horba
 Imperious Prima flashes forth
   Her edict 'to begin it' –
 In gentler tone Secunda hopes
